@@ -1,0 +1,6 @@
+path: '/content/AIWorkshop'
+train: train/images
+val: valid/images
+
+names: 
+  0: ayam_broiler
